@@ -1,0 +1,6 @@
+[submodule "lesson_6/substrate-node-template"]
+	path = lesson_6/substrate-node-template
+	url = https://github.com/Errory/substrate-node-template.git
+[submodule "lesson_6/substrate-front-end-template"]
+	path = lesson_6/substrate-front-end-template
+	url = https://github.com/Errory/substrate-front-end-template.git
